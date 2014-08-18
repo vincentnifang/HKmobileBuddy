@@ -1,0 +1,161 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="1765" measuredH="711" mockupW="1416" mockupH="623">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::Canvas" x="471" y="297" w="436" h="304" measuredW="100" measuredH="70" zOrder="0" locked="false" isInGroup="-1"/>
+    <control controlID="1" controlTypeID="com.balsamiq.mockups::TagCloud" x="524" y="379" w="-1" h="-1" measuredW="350" measuredH="110" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>welcome%20%u6B61%u8FCE%20welkom%20gratus%20%u0906%u092A%u0915%u093E%20%u0938%u094D%u0935%u093E%u0917%u0924%20%u0939%u0948%20accueil</text>
+      </controlProperties>
+    </control>
+    <control controlID="2" controlTypeID="com.balsamiq.mockups::HelpButton" x="873" y="310" w="-1" h="-1" measuredW="18" measuredH="18" zOrder="2" locked="false" isInGroup="-1"/>
+    <control controlID="3" controlTypeID="com.balsamiq.mockups::iPhone" x="941" y="297" w="301" h="414" measuredW="282" measuredH="573" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <model>IPhone5</model>
+      </controlProperties>
+    </control>
+    <control controlID="4" controlTypeID="com.balsamiq.mockups::Alert" x="1023" y="431" w="137" h="106" measuredW="200" measuredH="117" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Alert%0AConnection%21%0ANo%2C%20Yes</text>
+      </controlProperties>
+    </control>
+    <control controlID="5" controlTypeID="com.balsamiq.mockups::Canvas" x="349" y="297" w="558" h="304" measuredW="100" measuredH="70" zOrder="5" locked="false" isInGroup="-1"/>
+    <control controlID="6" controlTypeID="com.balsamiq.mockups::HelpButton" x="873" y="310" w="-1" h="-1" measuredW="18" measuredH="18" zOrder="6" locked="false" isInGroup="-1"/>
+    <control controlID="7" controlTypeID="com.balsamiq.mockups::iPhone" x="941" y="297" w="301" h="414" measuredW="282" measuredH="573" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <model>IPhone5</model>
+      </controlProperties>
+    </control>
+    <control controlID="8" controlTypeID="com.balsamiq.mockups::CallOut" x="1057" y="438" w="68" h="92" measuredW="103" measuredH="39" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>%20%0AVOICE%20HELP</text>
+      </controlProperties>
+    </control>
+    <control controlID="9" controlTypeID="com.balsamiq.mockups::Arrow" x="1211" y="473" w="214" h="10" measuredW="150" measuredH="100" zOrder="9" locked="false" isInGroup="-1">
+      <controlProperties>
+        <leftArrow>false</leftArrow>
+      </controlProperties>
+    </control>
+    <control controlID="10" controlTypeID="com.balsamiq.mockups::iPhone" x="1391" y="297" w="301" h="414" measuredW="282" measuredH="573" zOrder="10" locked="false" isInGroup="-1">
+      <controlProperties>
+        <model>IPhone5</model>
+      </controlProperties>
+    </control>
+    <control controlID="11" controlTypeID="com.balsamiq.mockups::Tooltip" x="1479" y="387" w="125" h="58" measuredW="125" measuredH="0" zOrder="11" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Use%20tickets%3F</text>
+      </controlProperties>
+    </control>
+    <control controlID="12" controlTypeID="com.balsamiq.mockups::HelpButton" x="1470" y="623" w="-1" h="-1" measuredW="18" measuredH="18" zOrder="12" locked="false" isInGroup="-1"/>
+    <control controlID="13" controlTypeID="com.balsamiq.mockups::NumericStepper" x="788" y="307" w="-1" h="-1" measuredW="76" measuredH="24" zOrder="13" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>English</text>
+      </controlProperties>
+    </control>
+    <control controlID="16" controlTypeID="com.balsamiq.mockups::SearchBox" x="580" y="347" w="300" h="-1" measuredW="120" measuredH="25" zOrder="14" locked="false" isInGroup="-1"/>
+    <control controlID="17" controlTypeID="com.balsamiq.mockups::Label" x="426" y="347" w="146" h="-1" measuredW="97" measuredH="21" zOrder="15" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Recipient%20Name%3A</text>
+      </controlProperties>
+    </control>
+    <control controlID="18" controlTypeID="com.balsamiq.mockups::Canvas" x="349" y="601" w="558" h="110" measuredW="100" measuredH="70" zOrder="16" locked="false" isInGroup="-1"/>
+    <control controlID="21" controlTypeID="com.balsamiq.mockups::Button" x="733" y="643" w="-1" h="-1" measuredW="92" measuredH="27" zOrder="17" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>13576743</color>
+        <text>panic%20alarm</text>
+      </controlProperties>
+    </control>
+    <control controlID="22" controlTypeID="com.balsamiq.mockups::RoundButton" x="686" y="643" w="-1" h="-1" measuredW="32" measuredH="32" zOrder="18" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>13576743</color>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="25" controlTypeID="com.balsamiq.mockups::Label" x="1272" y="439" w="92" h="-1" measuredW="87" measuredH="21" zOrder="19" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>PRESS%20VOICE</text>
+      </controlProperties>
+    </control>
+    <control controlID="26" controlTypeID="com.balsamiq.mockups::Title" x="476" y="302" w="-1" h="-1" measuredW="304" measuredH="43" zOrder="20" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>CYBER%20WALLET</text>
+      </controlProperties>
+    </control>
+    <control controlID="27" controlTypeID="com.balsamiq.mockups::DataGrid" x="382" y="387" w="492" h="193" measuredW="338" measuredH="81" zOrder="21" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>%2CRecipient%2CTime%20%5Ev%2C%20Location%2CNumber%2C%20Price%0A%28%29%2CMTR%2C12%3A00%2CA%2C2%2C200%0A%28*%29%2CDisneyland%2C12%3A00%2CA%2C2%2C520</text>
+        <verticalScrollbar>true</verticalScrollbar>
+      </controlProperties>
+    </control>
+    <control controlID="28" controlTypeID="com.balsamiq.mockups::Arrow" x="478" y="651" w="21" h="10" measuredW="150" measuredH="100" zOrder="22" locked="false" isInGroup="-1">
+      <controlProperties>
+        <curvature>0</curvature>
+        <direction>bottom</direction>
+        <leftArrow>true</leftArrow>
+        <rightArrow>false</rightArrow>
+      </controlProperties>
+    </control>
+    <control controlID="29" controlTypeID="com.balsamiq.mockups::Icon" x="426" y="624" w="-1" h="-1" measuredW="64" measuredH="64" zOrder="23" locked="false" isInGroup="-1">
+      <controlProperties>
+        <icon>CellPhoneIcon%7Cxlarge</icon>
+      </controlProperties>
+    </control>
+    <control controlID="30" controlTypeID="com.balsamiq.mockups::Button" x="1031" y="596" w="-1" h="-1" measuredW="48" measuredH="27" zOrder="24" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>YES</text>
+      </controlProperties>
+    </control>
+    <control controlID="31" controlTypeID="com.balsamiq.mockups::Button" x="1110" y="596" w="50" h="27" measuredW="41" measuredH="27" zOrder="25" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>NO</text>
+      </controlProperties>
+    </control>
+    <control controlID="32" controlTypeID="com.balsamiq.mockups::TextArea" x="1023" y="545" w="137" h="42" measuredW="200" measuredH="140" zOrder="26" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Use%20Tickets%20with%20Cyber%20Wallet%3F</text>
+      </controlProperties>
+    </control>
+    <control controlID="33" controlTypeID="com.balsamiq.mockups::TextArea" x="505" y="634" w="136" h="45" measuredW="200" measuredH="140" zOrder="27" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Put%20your%20phone%20here%20to%20connect.</text>
+      </controlProperties>
+    </control>
+    <control controlID="34" controlTypeID="com.balsamiq.mockups::Canvas" x="364" y="302" w="100" h="48" measuredW="100" measuredH="70" zOrder="28" locked="false" isInGroup="-1"/>
+    <control controlID="35" controlTypeID="com.balsamiq.mockups::RoundButton" x="373" y="313" w="56" h="30" measuredW="32" measuredH="32" zOrder="29" locked="false" isInGroup="-1">
+      <controlProperties>
+        <shape>circle</shape>
+        <text>icon</text>
+      </controlProperties>
+    </control>
+    <control controlID="36" controlTypeID="com.balsamiq.mockups::SubTitle" x="397" y="334" w="48" h="-1" measuredW="37" measuredH="16" zOrder="30" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>center</align>
+        <size>13</size>
+        <text>Sunny</text>
+      </controlProperties>
+    </control>
+    <control controlID="37" controlTypeID="com.balsamiq.mockups::Label" x="429" y="313" w="35" h="-1" measuredW="25" measuredH="21" zOrder="31" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>true</bold>
+        <size>13</size>
+        <text>+27</text>
+        <textOrientation>right</textOrientation>
+      </controlProperties>
+    </control>
+    <control controlID="38" controlTypeID="com.balsamiq.mockups::Icon" x="1517" y="585" w="-1" h="-1" measuredW="48" measuredH="48" zOrder="32" locked="false" isInGroup="-1">
+      <controlProperties>
+        <icon>./assets/icon_voice.png%7Clarge</icon>
+      </controlProperties>
+    </control>
+    <control controlID="39" controlTypeID="com.balsamiq.mockups::IconLabel" x="1655" y="353" w="-1" h="-1" measuredW="110" measuredH="63" zOrder="33" locked="false" isInGroup="-1">
+      <controlProperties>
+        <icon>VolumeIcon%7Clarge</icon>
+        <text>Say%20%22Use%20tickets%3F%22</text>
+      </controlProperties>
+    </control>
+    <control controlID="40" controlTypeID="com.balsamiq.mockups::Title" x="1416" y="88" w="-1" h="-1" measuredW="250" measuredH="43" zOrder="34" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>true</bold>
+        <text>Cyber%20Wallet</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>

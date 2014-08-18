@@ -1,0 +1,187 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="1723" measuredH="752" mockupW="1468" mockupH="665">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::Canvas" x="377" y="338" w="436" h="304" measuredW="100" measuredH="70" zOrder="0" locked="false" isInGroup="-1"/>
+    <control controlID="4" controlTypeID="com.balsamiq.mockups::TagCloud" x="430" y="420" w="-1" h="-1" measuredW="350" measuredH="110" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>welcome%20%u6B61%u8FCE%20welkom%20gratus%20%u0906%u092A%u0915%u093E%20%u0938%u094D%u0935%u093E%u0917%u0924%20%u0939%u0948%20accueil</text>
+      </controlProperties>
+    </control>
+    <control controlID="5" controlTypeID="com.balsamiq.mockups::HelpButton" x="779" y="351" w="-1" h="-1" measuredW="18" measuredH="18" zOrder="2" locked="false" isInGroup="-1"/>
+    <control controlID="6" controlTypeID="com.balsamiq.mockups::iPhone" x="847" y="338" w="301" h="414" measuredW="282" measuredH="573" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <model>IPhone5</model>
+      </controlProperties>
+    </control>
+    <control controlID="7" controlTypeID="com.balsamiq.mockups::Alert" x="929" y="472" w="137" h="106" measuredW="200" measuredH="117" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Alert%0AConnection%21%0ANo%2C%20Yes</text>
+      </controlProperties>
+    </control>
+    <control controlID="8" controlTypeID="com.balsamiq.mockups::Canvas" x="255" y="338" w="558" h="304" measuredW="100" measuredH="70" zOrder="5" locked="false" isInGroup="-1"/>
+    <control controlID="12" controlTypeID="com.balsamiq.mockups::HelpButton" x="779" y="351" w="-1" h="-1" measuredW="18" measuredH="18" zOrder="6" locked="false" isInGroup="-1"/>
+    <control controlID="13" controlTypeID="com.balsamiq.mockups::iPhone" x="847" y="338" w="301" h="414" measuredW="282" measuredH="573" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <model>IPhone5</model>
+      </controlProperties>
+    </control>
+    <control controlID="20" controlTypeID="com.balsamiq.mockups::CallOut" x="963" y="479" w="68" h="92" measuredW="103" measuredH="39" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>%20%0AVOICE%20HELP</text>
+      </controlProperties>
+    </control>
+    <control controlID="21" controlTypeID="com.balsamiq.mockups::Arrow" x="1117" y="514" w="214" h="10" measuredW="150" measuredH="100" zOrder="9" locked="false" isInGroup="-1">
+      <controlProperties>
+        <leftArrow>false</leftArrow>
+      </controlProperties>
+    </control>
+    <control controlID="23" controlTypeID="com.balsamiq.mockups::iPhone" x="1297" y="338" w="301" h="414" measuredW="282" measuredH="573" zOrder="10" locked="false" isInGroup="-1">
+      <controlProperties>
+        <model>IPhone5</model>
+      </controlProperties>
+    </control>
+    <control controlID="24" controlTypeID="com.balsamiq.mockups::Tooltip" x="1385" y="446" w="125" h="58" measuredW="131" measuredH="0" zOrder="11" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Where%20are%20you%20going%3F</text>
+      </controlProperties>
+    </control>
+    <control controlID="25" controlTypeID="com.balsamiq.mockups::HelpButton" x="1376" y="664" w="-1" h="-1" measuredW="18" measuredH="18" zOrder="12" locked="false" isInGroup="-1"/>
+    <control controlID="26" controlTypeID="com.balsamiq.mockups::NumericStepper" x="694" y="348" w="-1" h="-1" measuredW="76" measuredH="24" zOrder="13" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>English</text>
+      </controlProperties>
+    </control>
+    <control controlID="27" controlTypeID="com.balsamiq.mockups::ButtonBar" x="287" y="413" w="191" h="27" measuredW="191" measuredH="27" zOrder="14" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Attraction%2CDine%2C%20Event</text>
+      </controlProperties>
+    </control>
+    <control controlID="29" controlTypeID="com.balsamiq.mockups::List" x="287" y="440" w="189" h="187" measuredW="100" measuredH="132" zOrder="15" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Avenue%20of%20Stars%0AThe%20Peak%0AHKU%0AHong%20Kong%20Disneyland%0ATemple%20Street%20Night%20Market%0AClock%20Tower</text>
+      </controlProperties>
+    </control>
+    <control controlID="30" controlTypeID="com.balsamiq.mockups::SearchBox" x="486" y="388" w="300" h="-1" measuredW="120" measuredH="25" zOrder="16" locked="false" isInGroup="-1"/>
+    <control controlID="31" controlTypeID="com.balsamiq.mockups::Label" x="332" y="388" w="146" h="-1" measuredW="139" measuredH="21" zOrder="17" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Location%20or%20Restaurant%3A</text>
+      </controlProperties>
+    </control>
+    <control controlID="32" controlTypeID="com.balsamiq.mockups::Canvas" x="255" y="642" w="558" h="110" measuredW="100" measuredH="70" zOrder="18" locked="false" isInGroup="-1"/>
+    <control controlID="35" controlTypeID="com.balsamiq.mockups::Button" x="639" y="684" w="-1" h="-1" measuredW="92" measuredH="27" zOrder="19" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>13576743</color>
+        <text>panic%20alarm</text>
+      </controlProperties>
+    </control>
+    <control controlID="36" controlTypeID="com.balsamiq.mockups::RoundButton" x="592" y="684" w="-1" h="-1" measuredW="32" measuredH="32" zOrder="20" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>13576743</color>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="37" controlTypeID="com.balsamiq.mockups::TabBar" x="478" y="412" w="308" h="214" measuredW="176" measuredH="100" zOrder="21" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>MTR%2C%20BUS%2C%20TAXI</text>
+      </controlProperties>
+    </control>
+    <control controlID="38" controlTypeID="com.balsamiq.mockups::Map" x="486" y="446" w="294" h="169" measuredW="252" measuredH="222" zOrder="22" locked="false" isInGroup="-1"/>
+    <control controlID="39" controlTypeID="com.balsamiq.mockups::Label" x="1178" y="480" w="92" h="-1" measuredW="87" measuredH="21" zOrder="23" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>PRESS%20VOICE</text>
+      </controlProperties>
+    </control>
+    <control controlID="40" controlTypeID="com.balsamiq.mockups::Title" x="488" y="345" w="-1" h="-1" measuredW="93" measuredH="43" zOrder="24" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>TRIP</text>
+      </controlProperties>
+    </control>
+    <control controlID="41" controlTypeID="com.balsamiq.mockups::Arrow" x="377" y="692" w="21" h="10" measuredW="150" measuredH="100" zOrder="25" locked="false" isInGroup="-1">
+      <controlProperties>
+        <curvature>0</curvature>
+        <direction>bottom</direction>
+        <leftArrow>true</leftArrow>
+        <rightArrow>false</rightArrow>
+      </controlProperties>
+    </control>
+    <control controlID="42" controlTypeID="com.balsamiq.mockups::Icon" x="320" y="665" w="-1" h="-1" measuredW="64" measuredH="64" zOrder="26" locked="false" isInGroup="-1">
+      <controlProperties>
+        <icon>CellPhoneIcon%7Cxlarge</icon>
+      </controlProperties>
+    </control>
+    <control controlID="43" controlTypeID="com.balsamiq.mockups::TextArea" x="405" y="675" w="136" h="45" measuredW="200" measuredH="140" zOrder="27" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Put%20your%20phone%20here%20to%20connect.</text>
+      </controlProperties>
+    </control>
+    <control controlID="44" controlTypeID="com.balsamiq.mockups::Canvas" x="270" y="345" w="100" h="48" measuredW="100" measuredH="70" zOrder="28" locked="false" isInGroup="-1"/>
+    <control controlID="45" controlTypeID="com.balsamiq.mockups::RoundButton" x="279" y="356" w="56" h="30" measuredW="32" measuredH="32" zOrder="29" locked="false" isInGroup="-1">
+      <controlProperties>
+        <shape>circle</shape>
+        <text>icon</text>
+      </controlProperties>
+    </control>
+    <control controlID="46" controlTypeID="com.balsamiq.mockups::SubTitle" x="303" y="377" w="48" h="-1" measuredW="37" measuredH="16" zOrder="30" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>center</align>
+        <size>13</size>
+        <text>Sunny</text>
+      </controlProperties>
+    </control>
+    <control controlID="47" controlTypeID="com.balsamiq.mockups::Label" x="335" y="356" w="35" h="-1" measuredW="25" measuredH="21" zOrder="31" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>true</bold>
+        <size>13</size>
+        <text>+27</text>
+        <textOrientation>right</textOrientation>
+      </controlProperties>
+    </control>
+    <control controlID="48" controlTypeID="com.balsamiq.mockups::IconLabel" x="1557" y="409" w="-1" h="-1" measuredW="166" measuredH="63" zOrder="32" locked="false" isInGroup="-1">
+      <controlProperties>
+        <icon>VolumeIcon%7Clarge</icon>
+        <text>Say%20%22Where%20are%20you%20going%3F%22</text>
+      </controlProperties>
+    </control>
+    <control controlID="49" controlTypeID="com.balsamiq.mockups::Icon" x="1423" y="627" w="-1" h="-1" measuredW="48" measuredH="48" zOrder="33" locked="false" isInGroup="-1">
+      <controlProperties>
+        <icon>./assets/icon_voice.png%7Clarge</icon>
+      </controlProperties>
+    </control>
+    <control controlID="50" controlTypeID="com.balsamiq.mockups::StickyNote" x="731" y="206" w="243" h="132" measuredW="109" measuredH="123" zOrder="34" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>16776960</color>
+        <size>20</size>
+        <text>You%20can%20search%20the%20Location%20or%20Restaurant%20by%20search%20box%20or%20%22voice%20help%22%20button.</text>
+      </controlProperties>
+    </control>
+    <control controlID="51" controlTypeID="com.balsamiq.mockups::Arrow" x="639" y="283" w="92" h="94" measuredW="150" measuredH="100" zOrder="35" locked="false" isInGroup="-1">
+      <controlProperties>
+        <backgroundAlpha>0.5</backgroundAlpha>
+        <direction>bottom</direction>
+        <leftArrow>true</leftArrow>
+        <rightArrow>false</rightArrow>
+      </controlProperties>
+    </control>
+    <control controlID="52" controlTypeID="com.balsamiq.mockups::Arrow" x="868" y="338" w="88" h="176" measuredW="150" measuredH="100" zOrder="36" locked="false" isInGroup="-1">
+      <controlProperties>
+        <backgroundAlpha>0.5</backgroundAlpha>
+        <curvature>-1</curvature>
+        <direction>top</direction>
+        <leftArrow>false</leftArrow>
+        <rightArrow>true</rightArrow>
+      </controlProperties>
+    </control>
+    <control controlID="53" controlTypeID="com.balsamiq.mockups::StickyNote" x="1046" y="206" w="367" h="132" measuredW="109" measuredH="123" zOrder="37" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>16776960</color>
+        <size>20</size>
+        <text>When%20you%20use%20the%20search%20function%20or%20voice%20function%2C%20you%20can%20use%20your%20mother%20tongue%20and%20HKmobileBuddy%20will%20translate%20it%20in%20the%20backend.</text>
+      </controlProperties>
+    </control>
+    <control controlID="54" controlTypeID="com.balsamiq.mockups::Title" x="1448" y="87" w="-1" h="-1" measuredW="94" measuredH="43" zOrder="38" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>true</bold>
+        <text>TRIP</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>
